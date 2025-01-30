@@ -3,7 +3,7 @@
 1. Создайте в Telegram бота через BotFather и получите Токен вашего бота.
 2. Создайте учётку в openrouter.ai и создайте API ключ
 3. На Windows, Linux или MacOS установите Python
-4. Через pip установите все требуемые зависимости ( pip install telebot requests json )
+4. Через pip установите все требуемые зависимости ( pip install telebot requests )
 5. Запустите файл ( python openrouter_telebot.py )
 
 ```
